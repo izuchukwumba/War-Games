@@ -1,8 +1,4 @@
-def print_blue(*text):
-    red_code = "\033[1;36m"  
-    reset_code = "\033[0m" 
-    print(f"{red_code}{text}{reset_code}")
-
+from wargames import print_blue
 
 def play_tictactoe():
 # The main function
