@@ -1,3 +1,6 @@
+from print_blue import print_blue
+
+
 COUNTRIES = [
     {"NAME": "UnitedStates", "CITIES": [
         {"NAME": "NewYork", "CYBER-INTEGRITY": random.randint(0, 100)},

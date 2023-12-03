@@ -1,4 +1,5 @@
-from wargames import print_blue
+from print_blue import print_blue
+
 
 def play_tictactoe():
 # The main function
