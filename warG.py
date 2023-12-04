@@ -241,6 +241,12 @@ def _init_():
         print_blue("List of games: Choose a number")
         print_blue("1. Global Thermonuclear War")
         print_blue("2. Tic-Tac-Toe")
+        print_blue("3. Chess")
+        print_blue("4. Cyberwar")
+        print_blue("5. Battleship")
+
+
+
         answer_second = input()
         if answer_second == str(1) or answer_second.upper() == "CYBERWAR" or answer_second.upper() == "WAR" or answer_second.upper() == "NUCLEAR" or answer_second.upper() == "THERMO" or answer_second.upper() == "GTW":
             print_blue("Access to the simulated computer system is restricted.")
