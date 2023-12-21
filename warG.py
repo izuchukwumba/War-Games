@@ -244,6 +244,8 @@ def _init_():
         print_blue("3. Chess")
         print_blue("4. Cyberwar")
         print_blue("5. Battleship")
+        print_blue("6. Marbles")
+
 
 
 
